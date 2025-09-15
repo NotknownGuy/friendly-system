@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'google.com';
+export const domain = auth-captchabot.pro';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
